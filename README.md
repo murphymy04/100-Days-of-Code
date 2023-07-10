@@ -1,3 +1,3 @@
 # 100-Days-of-Code
-Udemy Course Project\n
+Udemy Course Project\
 Lots of skipping around
