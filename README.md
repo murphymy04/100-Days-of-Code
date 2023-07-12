@@ -1,2 +1,2 @@
 # 100-Days-of-Code
-Udemy Course Projects\
+Udemy Course Projects
