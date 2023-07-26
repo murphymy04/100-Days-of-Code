@@ -52,7 +52,7 @@ class Add(FlaskForm):
     author = StringField("Name of Author", validators=[DataRequired()])
     img_url = StringField("Image", validators=[DataRequired(), URL()])
     body = CKEditorField('Body', validators=[DataRequired()])
-    submit = SubmitField("Post!")
+    submit = SubmitField("Submit")
 
 
 @app.route('/')
